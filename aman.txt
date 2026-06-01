@@ -2,4 +2,3 @@ My name is aman
 adding , commit , log . status , touch , ls ,
 touch = touch file name for creating new file
 ADDING new line for text in 2 branch same time with same change`123
-creating second conflict bra 1
