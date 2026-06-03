@@ -2,3 +2,4 @@
 touch = touch file name for creating new file
 revert , reset - soft & hard
 stash , rebase stash@, stash list
+clone , fork ,
