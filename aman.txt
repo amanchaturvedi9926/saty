@@ -1,5 +1,12 @@
+-adding , commit , log . status , touch , ls ,
+touch = touch file name for creating new file
+revert , reset - soft & hard
+stash , rebase stash@, stash list
+clone , fork ,
 My name is aman
 adding , commit , log . status , touch , ls ,
 touch = touch file name for creating new file
 ADDING new line for text in 2 branch same time with same change`123
 adding new line for conflict in bra 1 one more
+ADDING new line for text in 2 branch same time with same change
+creating second conflict in bra 2
